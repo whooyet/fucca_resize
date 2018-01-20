@@ -6,8 +6,7 @@
 - sm_resize_voice 0.1 ~ 2.0
 - sm_resize_weapon 0.1 ~ 2.0
 
-
-*command
+# command
 
 - sm_hd
 - sm_ws
