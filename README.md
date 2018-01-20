@@ -1,4 +1,4 @@
-# server.cfg
+# Server Folder/tf/cfg/sourcemod/fucca_resize.cfg
 
 - sm_resize_body 0.1 ~ 2.0
 - sm_resize_head 0.1 ~ 2.0
